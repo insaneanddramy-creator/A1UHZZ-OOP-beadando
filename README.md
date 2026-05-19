@@ -11,7 +11,7 @@ Funkciók:
 - Bérlés lemondása
 - Aktív bérlések listázása
 
-A program futtatásához a main.py fájl indításával lehetséges.
+A program futtatása a main.py fájl indításával lehetséges.
 
 Fájlok:
 auto.py
